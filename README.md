@@ -39,7 +39,7 @@
 - Отсутствие ошибок в консоли "Clear console log"
 
 ## :rocket: Сборка в Jenkins
-### <a target="_blank" href="https://jenkins.autotests.cloud/job/Lesson_14_quick_project_HW2/">Сборка в Jenkins</a>
+### <a target="_blank" href="https://jenkins.autotests.cloud/job/AUTO-Rustam/">Сборка в Jenkins</a>
 <p align="center">
 <img title="Jenkins Dashboard" src="images/screenshots/jenkins_dashboard.png">
 </p>
